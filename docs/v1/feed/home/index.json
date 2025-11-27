@@ -1,8 +1,8 @@
 {
   "meta": {
     "status": 200,
-    "requestId": "req-static-1764266498",
-    "serverTime": 1764266498495
+    "requestId": "req-static-1764268146",
+    "serverTime": 1764268146392
   },
   "data": {
     "greeting": "Good Morning",
@@ -16,38 +16,34 @@
         "id": "cat-2",
         "label": "HR",
         "iconKey": "users"
-      },
-      {
-        "id": "cat-3",
-        "label": "Tech",
-        "iconKey": "cpu"
       }
     ],
     "featuredNews": [
       {
         "id": "news-101",
-        "title": "Q3 Quarterly Results Exceed Expectations",
+        "title": "Quarterly Results Exceed Expectations",
         "thumbnailUrl": "https://placehold.co/600x400/000000/FFF?text=Quarterly+Results",
         "contentUrl": "https://helix.dev/news/101",
-        "publishedAt": "2023-10-27T10:00:00Z"
+        "publishedAt": "2023-10-27T10:00:00Z",
+        "isBookmarked": false
       }
     ],
     "latestNews": [
       {
         "id": "news-102",
         "title": "New Remote Work Policy",
-        "excerpt": "Please review the updated guidelines for WFH arrangements effective next month.",
+        "excerpt": "Please review the attached PDF for new guidelines regarding hybrid work.",
         "thumbnailUrl": "https://placehold.co/100x100/2ecc71/FFF?text=Policy",
         "publishedAt": "2023-10-26T09:00:00Z",
-        "isBookmarked": false
+        "isBookmarked": true
       },
       {
         "id": "news-103",
-        "title": "Server Maintenance Schedule",
-        "excerpt": "Downtime expected this Sunday from 2 AM to 4 AM.",
+        "title": "IT System Maintenance",
+        "excerpt": "Scheduled downtime for the main server cluster this Sunday.",
         "thumbnailUrl": "https://placehold.co/100x100/e74c3c/FFF?text=Maint",
         "publishedAt": "2023-10-25T14:00:00Z",
-        "isBookmarked": true
+        "isBookmarked": false
       }
     ]
   },

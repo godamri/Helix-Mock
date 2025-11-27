@@ -1,8 +1,8 @@
 {
   "meta": {
     "status": 200,
-    "requestId": "req-static-1764266498",
-    "serverTime": 1764266498495
+    "requestId": "req-static-1764268146",
+    "serverTime": 1764268146393
   },
   "data": {
     "items": [
@@ -12,21 +12,10 @@
           "name": "John Doe",
           "avatarUrl": "https://ui-avatars.com/api/?name=John+Doe"
         },
-        "content": "Just launched the new feature! Check it out on staging.",
+        "content": "Just launched the new feature! Check it out.",
         "createdAt": "2023-10-27T11:00:00Z",
         "likesCount": 42,
         "commentsCount": 5
-      },
-      {
-        "id": "post-554",
-        "author": {
-          "name": "Sarah Smith",
-          "avatarUrl": "https://ui-avatars.com/api/?name=Sarah+Smith"
-        },
-        "content": "Has anyone seen the updated API docs? They look clean.",
-        "createdAt": "2023-10-27T09:30:00Z",
-        "likesCount": 12,
-        "commentsCount": 2
       }
     ],
     "nextPage": 2

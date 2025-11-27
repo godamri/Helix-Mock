@@ -1,12 +1,12 @@
 {
   "meta": {
     "status": 200,
-    "requestId": "req-static-1764266498",
-    "serverTime": 1764266498495
+    "requestId": "req-static-1764268146",
+    "serverTime": 1764268146392
   },
   "data": {
-    "accessToken": "eyJhGci_mock_access_token_header.payload.signature",
-    "refreshToken": "ref_873_mock_refresh_token",
+    "accessToken": "eyJhGci_mock_access_token_v1.1",
+    "refreshToken": "ref_873_mock_refresh_token_v1.1",
     "expiresInMs": 900000,
     "user": {
       "id": "u-001",

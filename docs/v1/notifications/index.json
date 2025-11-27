@@ -1,8 +1,8 @@
 {
   "meta": {
     "status": 200,
-    "requestId": "req-static-1764266498",
-    "serverTime": 1764266498496
+    "requestId": "req-static-1764268146",
+    "serverTime": 1764268146393
   },
   "data": {
     "items": [
@@ -13,14 +13,6 @@
         "type": "finance",
         "isRead": false,
         "createdAt": "2023-10-25T08:00:00Z"
-      },
-      {
-        "id": "notif-998",
-        "title": "New Comment",
-        "body": "Alice commented on your post.",
-        "type": "community",
-        "isRead": true,
-        "createdAt": "2023-10-24T15:20:00Z"
       }
     ]
   },

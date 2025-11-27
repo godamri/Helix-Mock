@@ -1,13 +1,13 @@
 {
   "meta": {
     "status": 200,
-    "requestId": "req-static-1764266498",
-    "serverTime": 1764266498495
+    "requestId": "req-static-1764268146",
+    "serverTime": 1764268146392
   },
   "data": {
     "id": "news-102",
     "title": "New Remote Work Policy",
-    "content": "<h1>Remote Work Update</h1><p>We are shifting to a hybrid model. Employees are expected to be in the office 2 days a week.</p><ul><li>Tuesday</li><li>Thursday</li></ul>",
+    "content": "<h1>Remote Work Update</h1><p>We are shifting to a <strong>hybrid model</strong> effective immediately.</p><p>Employees are expected to be in the office at least <strong>2 days a week</strong>.</p><ul><li>Tuesday</li><li>Thursday</li></ul><p>Please contact HR for exceptions.</p>",
     "author": "HR Department",
     "readTimeMinutes": 5
   },
