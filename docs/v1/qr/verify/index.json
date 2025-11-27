@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498496
+  },
+  "data": {
+    "isValid": true,
+    "action": "check_in_success",
+    "message": "Welcome to HQ, Gatekeeper Admin."
+  },
+  "errors": []
+}

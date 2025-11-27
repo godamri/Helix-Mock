@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498495
+  },
+  "data": {
+    "accessToken": "eyJhGci_mock_access_token_header.payload.signature",
+    "refreshToken": "ref_873_mock_refresh_token",
+    "expiresInMs": 900000,
+    "user": {
+      "id": "u-001",
+      "name": "Gatekeeper Admin",
+      "avatarUrl": "https://ui-avatars.com/api/?name=Gatekeeper+Admin&background=0D8ABC&color=fff"
+    }
+  },
+  "errors": []
+}

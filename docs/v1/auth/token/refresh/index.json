@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498495
+  },
+  "data": {
+    "accessToken": "eyJhGci_new_mock_token...",
+    "refreshToken": "ref_999_new_mock_refresh...",
+    "expiresInMs": 900000
+  },
+  "errors": []
+}

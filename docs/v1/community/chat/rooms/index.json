@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498496
+  },
+  "data": [
+    {
+      "id": "room-a1",
+      "name": "General Engineering",
+      "lastMessage": {
+        "content": "Deploying now...",
+        "senderName": "Alice",
+        "timestamp": "2023-10-27T12:05:00Z"
+      },
+      "unreadCount": 3
+    },
+    {
+      "id": "room-b2",
+      "name": "Lunch Plans",
+      "lastMessage": {
+        "content": "Pizza looks good.",
+        "senderName": "Bob",
+        "timestamp": "2023-10-27T11:45:00Z"
+      },
+      "unreadCount": 0
+    }
+  ],
+  "errors": []
+}

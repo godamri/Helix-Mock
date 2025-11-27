@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498496
+  },
+  "data": {
+    "id": "u-001",
+    "name": "Gatekeeper Admin",
+    "email": "admin@helix.dev",
+    "department": "Engineering",
+    "avatarUrl": "https://ui-avatars.com/api/?name=Gatekeeper+Admin&background=0D8ABC&color=fff"
+  },
+  "errors": []
+}

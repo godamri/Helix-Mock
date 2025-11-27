@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498496
+  },
+  "data": {
+    "status": "registered (mock)"
+  },
+  "errors": []
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498495
+  },
+  "data": {
+    "id": "news-102",
+    "title": "New Remote Work Policy",
+    "content": "<h1>Remote Work Update</h1><p>We are shifting to a hybrid model. Employees are expected to be in the office 2 days a week.</p><ul><li>Tuesday</li><li>Thursday</li></ul>",
+    "author": "HR Department",
+    "readTimeMinutes": 5
+  },
+  "errors": []
+}

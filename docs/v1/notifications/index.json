@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "status": 200,
+    "requestId": "req-static-1764266498",
+    "serverTime": 1764266498496
+  },
+  "data": {
+    "items": [
+      {
+        "id": "notif-999",
+        "title": "Salary Credited",
+        "body": "Your October salary has been processed.",
+        "type": "finance",
+        "isRead": false,
+        "createdAt": "2023-10-25T08:00:00Z"
+      },
+      {
+        "id": "notif-998",
+        "title": "New Comment",
+        "body": "Alice commented on your post.",
+        "type": "community",
+        "isRead": true,
+        "createdAt": "2023-10-24T15:20:00Z"
+      }
+    ]
+  },
+  "errors": []
+}
